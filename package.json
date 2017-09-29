@@ -2,6 +2,10 @@
   "name": "react_on_rails_v9",
   "private": true,
   "dependencies": {
+    "@rails/webpacker": "^3.0.1",
     "react-on-rails": "^9.0.3"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.9.1"
   }
 }

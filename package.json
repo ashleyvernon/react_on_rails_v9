@@ -1,5 +1,7 @@
 {
   "name": "react_on_rails_v9",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react-on-rails": "^9.0.3"
+  }
 }
